@@ -1,0 +1,1438 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "updatedAt": "2026-07-11T13:31:27Z",
+  "shows": [
+    {
+      "id": "anthony-kasper-live-anthony-kasper",
+      "displayName": "Anthony Kasper Live - Anthony Kasper",
+      "aliases": [
+        "Anthony Kasper Live - Anthony Kasper"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "atmomatix-records-showcase-hiddenwave",
+      "displayName": "Atmomatix Records Showcase - HiddenWave",
+      "aliases": [
+        "Atmomatix Records Showcase - HiddenWave"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "atmospheric-alignments-skanka",
+      "displayName": "Atmospheric Alignments - Skanka",
+      "aliases": [
+        "Atmospheric Alignments - Skanka"
+      ],
+      "tags": [
+        "DEEP_ATMOSPHERIC"
+      ],
+      "tagSource": "AUTO",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "atmospheric-alignments-yaumbit",
+      "displayName": "Atmospheric Alignments - Yaumbit",
+      "aliases": [
+        "Atmospheric Alignments - Yaumbit"
+      ],
+      "tags": [
+        "DEEP_ATMOSPHERIC"
+      ],
+      "tagSource": "AUTO",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "australian-atmospherics-operon",
+      "displayName": "Australian Atmospherics - Operon",
+      "aliases": [
+        "Australian Atmospherics - Operon"
+      ],
+      "tags": [
+        "DEEP_ATMOSPHERIC"
+      ],
+      "tagSource": "AUTO",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "awake247-show-awakefm",
+      "displayName": "Awake247 Show - AwakeFM",
+      "aliases": [
+        "Awake247 Show - AwakeFM"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "back2back-radio-charlie-pxls",
+      "displayName": "Back2Back Radio - Charlie Pxls",
+      "aliases": [
+        "Back2Back Radio - Charlie Pxls"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "balearic-breaks-show-darren-jay-and-jazzy",
+      "displayName": "Balearic Breaks Show - Darren Jay and Jazzy",
+      "aliases": [
+        "Balearic Breaks Show - Darren Jay and Jazzy"
+      ],
+      "tags": [
+        "LIQUID_SOULFUL",
+        "JUNGLE_BREAKS"
+      ],
+      "tagSource": "AUTO",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "bankbeats-bank",
+      "displayName": "Bankbeats - Bank",
+      "aliases": [
+        "Bankbeats - Bank"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "bass-go-boom-dj-andy",
+      "displayName": "BASS GO BOOM - DJ ANDY",
+      "aliases": [
+        "BASS GO BOOM - DJ ANDY"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "berlin-bass-dj-soulsurfer",
+      "displayName": "Berlin Bass - DJ Soulsurfer",
+      "aliases": [
+        "Berlin Bass - DJ Soulsurfer"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "blu-saphir-show-jay-rome",
+      "displayName": "Blu Saphir Show - Jay Rome",
+      "aliases": [
+        "Blu Saphir Show - Jay Rome"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "context-audio-show-subtext",
+      "displayName": "Context Audio Show - Subtext",
+      "aliases": [
+        "Context Audio Show - Subtext"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "contrast-radio-show",
+      "displayName": "Contrast Radio Show",
+      "aliases": [
+        "Contrast Radio Show"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "crucial-x-radio-spacefunk",
+      "displayName": "Crucial-X Radio - Spacefunk",
+      "aliases": [
+        "Crucial-X Radio - Spacefunk"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "dbr-deinfamous",
+      "displayName": "DBR - Deinfamous",
+      "aliases": [
+        "DBR - Deinfamous"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "deceit-fm-buzzy-d",
+      "displayName": "Deceit FM - Buzzy D",
+      "aliases": [
+        "Deceit FM - Buzzy D"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "deep-in-the-jungle-illusionist-and-darm",
+      "displayName": "Deep In The Jungle - Illusionist and Darm",
+      "aliases": [
+        "Deep In The Jungle - Illusionist and Darm"
+      ],
+      "tags": [
+        "JUNGLE_BREAKS"
+      ],
+      "tagSource": "AUTO",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "deep-soul-show-donovan-badboy-smith",
+      "displayName": "Deep Soul Show - Donovan Badboy Smith",
+      "aliases": [
+        "Deep Soul Show - Donovan Badboy Smith"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "default-recordings-show-west",
+      "displayName": "Default Recordings Show - West",
+      "aliases": [
+        "Default Recordings Show - West"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "dirtbox-radio-odj",
+      "displayName": "Dirtbox Radio - ODJ",
+      "aliases": [
+        "Dirtbox Radio - ODJ"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "drumobsession-alegria",
+      "displayName": "DrumObsession - Alegria",
+      "aliases": [
+        "DrumObsession - Alegria"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "dusk-melysma",
+      "displayName": "Dusk - Melysma",
+      "aliases": [
+        "Dusk - Melysma"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "eastside-sessions-a-sides",
+      "displayName": "Eastside Sessions - A-Sides",
+      "aliases": [
+        "Eastside Sessions - A-Sides"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "eclips3-music-liquid",
+      "displayName": "Eclips3 Music - Liquid",
+      "aliases": [
+        "Eclips3 Music - Liquid"
+      ],
+      "tags": [
+        "LIQUID_SOULFUL"
+      ],
+      "tagSource": "AUTO",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "electronic-warfare-the-overfiend",
+      "displayName": "Electronic Warfare - The Overfiend",
+      "aliases": [
+        "Electronic Warfare - The Overfiend"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "emcee-recordings-show-mechanizm-and-voyage",
+      "displayName": "Emcee Recordings Show - Mechanizm and Voyage",
+      "aliases": [
+        "Emcee Recordings Show - Mechanizm and Voyage"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "external-beats-show-external-subway",
+      "displayName": "External Beats Show - External Subway",
+      "aliases": [
+        "External Beats Show - External Subway"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "fizzy-beats-show-mr-joseph",
+      "displayName": "Fizzy Beats Show - Mr. Joseph",
+      "aliases": [
+        "Fizzy Beats Show - Mr. Joseph"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "fokuz-recordings-show",
+      "displayName": "Fokuz Recordings Show",
+      "aliases": [
+        "Fokuz Recordings Show"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "full-circle-show-russ-t",
+      "displayName": "Full Circle Show - Russ T",
+      "aliases": [
+        "Full Circle Show - Russ T"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "function-records-show-digital",
+      "displayName": "Function Records Show - Digital",
+      "aliases": [
+        "Function Records Show - Digital"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "funked-up-radio-dfunk",
+      "displayName": "Funked Up Radio - DFunk",
+      "aliases": [
+        "Funked Up Radio - DFunk"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "future-frequencies-jay-holder",
+      "displayName": "Future Frequencies - Jay Holder",
+      "aliases": [
+        "Future Frequencies - Jay Holder"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "fuzed-funk-magin",
+      "displayName": "Fuzed Funk - Magin",
+      "aliases": [
+        "Fuzed Funk - Magin"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "get-dipped-dip-vertigo",
+      "displayName": "Get Dipped - Dip Vertigo",
+      "aliases": [
+        "Get Dipped - Dip Vertigo"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "hangover-hotline-lamebrane",
+      "displayName": "Hangover Hotline - Lamebrane",
+      "aliases": [
+        "Hangover Hotline - Lamebrane"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "heat-delano",
+      "displayName": "Heat - Delano",
+      "aliases": [
+        "Heat - Delano"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "impressions-indentation",
+      "displayName": "Impressions - Indentation",
+      "aliases": [
+        "Impressions - Indentation"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "in-the-mix-with-colony-colony",
+      "displayName": "In the Mix with Colony - Colony",
+      "aliases": [
+        "In the Mix with Colony - Colony"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "incisive-rhythm-ronin-selecta",
+      "displayName": "Incisive Rhythm - Ronin Selecta",
+      "aliases": [
+        "Incisive Rhythm - Ronin Selecta"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "jamdown-sessions-with-jamm-n",
+      "displayName": "JamDown Sessions with Jamm:n",
+      "aliases": [
+        "JamDown Sessions with Jamm:n"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "jen-symmetry-live-from-minneapolis",
+      "displayName": "Jen Symmetry Live from Minneapolis",
+      "aliases": [
+        "Jen Symmetry Live from Minneapolis"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "just-joel-sevin",
+      "displayName": "Just Joel - Sevin",
+      "aliases": [
+        "Just Joel - Sevin"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "just-on-track-ashatack",
+      "displayName": "Just On Track - Ashatack",
+      "aliases": [
+        "Just On Track - Ashatack"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "kos-mos-music-presents-phuture-beats-show",
+      "displayName": "Kos.Mos.Music Presents Phuture Beats Show",
+      "aliases": [
+        "Kos.Mos.Music Presents Phuture Beats Show"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "lab-sessions-impression",
+      "displayName": "Lab Sessions - Impression",
+      "aliases": [
+        "Lab Sessions - Impression"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "launch-in-session-handy",
+      "displayName": "Launch in Session - Handy",
+      "aliases": [
+        "Launch in Session - Handy"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "launch-in-session-launch-pad",
+      "displayName": "Launch in Session - Launch Pad",
+      "aliases": [
+        "Launch in Session - Launch Pad"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "liquiddnb-show-liquiddnb-com",
+      "displayName": "LiquidDNB Show - LiquidDNB.com",
+      "aliases": [
+        "LiquidDNB Show - LiquidDNB.com"
+      ],
+      "tags": [
+        "LIQUID_SOULFUL"
+      ],
+      "tagSource": "AUTO",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "miles-ahead-radio-will-miles",
+      "displayName": "Miles Ahead Radio - Will Miles",
+      "aliases": [
+        "Miles Ahead Radio - Will Miles"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "monday-blues-fizzik",
+      "displayName": "Monday Blues - Fizzik",
+      "aliases": [
+        "Monday Blues - Fizzik"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "monday-night-live-bmk",
+      "displayName": "Monday Night Live - BMK",
+      "aliases": [
+        "Monday Night Live - BMK"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "mozey-live-from-london-england-mike-mozey",
+      "displayName": "Mozey Live From London England - Mike Mozey",
+      "aliases": [
+        "Mozey Live From London England - Mike Mozey"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "night-grooves-intelligent-manners",
+      "displayName": "Night Grooves - Intelligent Manners",
+      "aliases": [
+        "Night Grooves - Intelligent Manners"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "northern-groove-show-dan-soulsmith",
+      "displayName": "Northern Groove Show - Dan Soulsmith",
+      "aliases": [
+        "Northern Groove Show - Dan Soulsmith"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "on-ward-show-jay-dubz",
+      "displayName": "On Ward Show - Jay Dubz",
+      "aliases": [
+        "On Ward Show - Jay Dubz"
+      ],
+      "tags": [
+        "DEEP_ATMOSPHERIC"
+      ],
+      "tagSource": "AUTO",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "panorama-podcast-derrick-and-tonika",
+      "displayName": "Panorama Podcast - Derrick and Tonika",
+      "aliases": [
+        "Panorama Podcast - Derrick and Tonika"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "planet-v-radio",
+      "displayName": "Planet V Radio",
+      "aliases": [
+        "Planet V Radio"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "plates-from-the-crypt-ill-omen",
+      "displayName": "Plates from the Crypt - iLL Omen",
+      "aliases": [
+        "Plates from the Crypt - iLL Omen"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "power-rinse-evanthescientist",
+      "displayName": "Power Rinse - EvanTheScientist",
+      "aliases": [
+        "Power Rinse - EvanTheScientist"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "promo-zo-on-bassdrive-promo-zo",
+      "displayName": "Promo Zo on Bassdrive - Promo Zo",
+      "aliases": [
+        "Promo Zo on Bassdrive - Promo Zo"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "random-movement-radio-random-movement",
+      "displayName": "Random Movement Radio - Random Movement",
+      "aliases": [
+        "Random Movement Radio - Random Movement"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "reflect-live-reflect",
+      "displayName": "Reflect LIVE - Reflect",
+      "aliases": [
+        "Reflect LIVE - Reflect"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "reflective-music-show-2shy",
+      "displayName": "Reflective Music Show - 2Shy",
+      "aliases": [
+        "Reflective Music Show - 2Shy"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "represent-radio-squake",
+      "displayName": "Represent Radio - Squake",
+      "aliases": [
+        "Represent Radio - Squake"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "resistance-radio-john-ohms",
+      "displayName": "Resistance Radio - John Ohms",
+      "aliases": [
+        "Resistance Radio - John Ohms"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "revival-radio-sp",
+      "displayName": "Revival Radio - SP",
+      "aliases": [
+        "Revival Radio - SP"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "rinse-n-wash-wadjit",
+      "displayName": "Rinse N Wash - Wadjit",
+      "aliases": [
+        "Rinse N Wash - Wadjit"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "schematic-sound-schematic",
+      "displayName": "Schematic Sound - Schematic",
+      "aliases": [
+        "Schematic Sound - Schematic"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "scientific-radio-mav-and-mobility",
+      "displayName": "Scientific Radio - MAV and Mobility",
+      "aliases": [
+        "Scientific Radio - MAV and Mobility"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "sheer-velocity-radio-dj-soultec",
+      "displayName": "Sheer Velocity Radio - DJ soulTec",
+      "aliases": [
+        "Sheer Velocity Radio - DJ soulTec"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "sixoneoh-reflect",
+      "displayName": "SixOneOh - Reflect",
+      "aliases": [
+        "SixOneOh - Reflect"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "sohl-patrol-sohlman",
+      "displayName": "Sohl Patrol - Sohlman",
+      "aliases": [
+        "Sohl Patrol - Sohlman"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "soundtrax4life-show-big-bud",
+      "displayName": "Soundtrax4Life Show - Big Bud",
+      "aliases": [
+        "Soundtrax4Life Show - Big Bud"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "stamina-radio-jamal",
+      "displayName": "Stamina Radio - Jamal",
+      "aliases": [
+        "Stamina Radio - Jamal"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "stepping-forward-show-jaybee",
+      "displayName": "Stepping Forward Show - Jaybee",
+      "aliases": [
+        "Stepping Forward Show - Jaybee"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "straub-patrol-strauberry",
+      "displayName": "Straub Patrol - Strauberry",
+      "aliases": [
+        "Straub Patrol - Strauberry"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "stuck-on-mute-insideman",
+      "displayName": "Stuck on Mute - Insideman",
+      "aliases": [
+        "Stuck on Mute - Insideman"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "subfactory-show-dj-spim",
+      "displayName": "Subfactory Show - DJ Spim",
+      "aliases": [
+        "Subfactory Show - DJ Spim"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "subliminal-messages-radio-sp",
+      "displayName": "Subliminal Messages Radio - SP",
+      "aliases": [
+        "Subliminal Messages Radio - SP"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "sweetpea-live-on-bassdrive-sweetpea",
+      "displayName": "Sweetpea Live on Bassdrive - Sweetpea",
+      "aliases": [
+        "Sweetpea Live on Bassdrive - Sweetpea"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "sydney-soul-radio-andy-sim",
+      "displayName": "Sydney Soul Radio - Andy Sim",
+      "aliases": [
+        "Sydney Soul Radio - Andy Sim"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-dusk-session-with-melysma",
+      "displayName": "The Dusk Session with Melysma",
+      "aliases": [
+        "The Dusk Session with Melysma"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-ebb-flow-show-optx",
+      "displayName": "The Ebb Flow Show - OPTX",
+      "aliases": [
+        "The Ebb Flow Show - OPTX"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-four-corners-show-melinki",
+      "displayName": "The Four Corners Show - Melinki",
+      "aliases": [
+        "The Four Corners Show - Melinki"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-greenroom-stunna",
+      "displayName": "The Greenroom - Stunna",
+      "aliases": [
+        "The Greenroom - Stunna"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-high-definition-show-lj-high",
+      "displayName": "The High Definition Show - LJ High",
+      "aliases": [
+        "The High Definition Show - LJ High"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-hive-bumblebee",
+      "displayName": "The Hive - Bumblebee",
+      "aliases": [
+        "The Hive - Bumblebee"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-hustle-audio-show-phil-hustle",
+      "displayName": "The Hustle Audio Show - Phil Hustle",
+      "aliases": [
+        "The Hustle Audio Show - Phil Hustle"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-infrasound-radio-show-icon",
+      "displayName": "The Infrasound Radio Show - Icon",
+      "aliases": [
+        "The Infrasound Radio Show - Icon"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-jazzsticks-show-paul-sg",
+      "displayName": "The Jazzsticks Show - Paul SG",
+      "aliases": [
+        "The Jazzsticks Show - Paul SG"
+      ],
+      "tags": [
+        "LIQUID_SOULFUL"
+      ],
+      "tagSource": "AUTO",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-just-on-track-show-ashatack",
+      "displayName": "The Just On Track Show - Ashatack",
+      "aliases": [
+        "The Just On Track Show - Ashatack"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-kurruptdata-show",
+      "displayName": "The Kurruptdata Show",
+      "aliases": [
+        "The Kurruptdata Show"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-mixtest-micken",
+      "displayName": "The Mixtest - Micken",
+      "aliases": [
+        "The Mixtest - Micken"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-mod-con-records-show-rodney-rolls",
+      "displayName": "The Mod Con Records Show - Rodney Rolls",
+      "aliases": [
+        "The Mod Con Records Show - Rodney Rolls"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-prague-connection-blofeld",
+      "displayName": "The Prague Connection - Blofeld",
+      "aliases": [
+        "The Prague Connection - Blofeld"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-skeptics-show-the-skeptics",
+      "displayName": "The Skeptics Show - The Skeptics",
+      "aliases": [
+        "The Skeptics Show - The Skeptics"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-strictly-science-mixshow-dlo",
+      "displayName": "The Strictly Science Mixshow - Dlo",
+      "aliases": [
+        "The Strictly Science Mixshow - Dlo"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-sultry-sounds-show-cadence",
+      "displayName": "The Sultry Sounds Show - Cadence",
+      "aliases": [
+        "The Sultry Sounds Show - Cadence"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-technimatic-show-technimatic",
+      "displayName": "The Technimatic Show - Technimatic",
+      "aliases": [
+        "The Technimatic Show - Technimatic"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "the-warm-ears-show-bassdrive",
+      "displayName": "The Warm Ears Show - bassdrive",
+      "aliases": [
+        "The Warm Ears Show - bassdrive"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "third-foundation-t-suna",
+      "displayName": "Third Foundation - T Suna",
+      "aliases": [
+        "Third Foundation - T Suna"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "trainspotting-sessions-dj-amnesty",
+      "displayName": "Trainspotting Sessions - DJ Amnesty",
+      "aliases": [
+        "Trainspotting Sessions - DJ Amnesty"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "translation-sound-rogue-state",
+      "displayName": "Translation Sound - Rogue State",
+      "aliases": [
+        "Translation Sound - Rogue State"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "vibration-sessions-vibration-records",
+      "displayName": "Vibration Sessions - Vibration Records",
+      "aliases": [
+        "Vibration Sessions - Vibration Records"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "vinyl-and-circuitry-method-one",
+      "displayName": "Vinyl and Circuitry - Method One",
+      "aliases": [
+        "Vinyl and Circuitry - Method One"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "vital-habits-show-beepo-and-mental-chemistry",
+      "displayName": "Vital Habits Show - Beepo and Mental Chemistry",
+      "aliases": [
+        "Vital Habits Show - Beepo and Mental Chemistry"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "vital-habits-show-overt1",
+      "displayName": "Vital Habits Show - Overt1",
+      "aliases": [
+        "Vital Habits Show - Overt1"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    },
+    {
+      "id": "xposure-records-show-ben-xo",
+      "displayName": "XPOSURE Records Show - Ben XO",
+      "aliases": [
+        "XPOSURE Records Show - Ben XO"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
+      "tagRulesVersion": 0,
+      "profileUrl": null
+    }
+  ]
+}
