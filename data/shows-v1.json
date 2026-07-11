@@ -1,20 +1,22 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 1,
-  "updatedAt": "2026-07-11T13:31:27Z",
+  "catalogVersion": 2,
+  "updatedAt": "2026-07-11T18:43:15Z",
   "shows": [
     {
       "id": "anthony-kasper-live-anthony-kasper",
-      "displayName": "Anthony Kasper Live - Anthony Kasper",
+      "displayName": "Anthony Kasper Live",
       "aliases": [
         "Anthony Kasper Live - Anthony Kasper"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "DANCEFLOOR_JUMP_UP",
+        "FULL_SPECTRUM"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/anthony-kasper-live"
     },
     {
       "id": "atmomatix-records-showcase-hiddenwave",
@@ -26,7 +28,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -39,7 +41,7 @@
         "DEEP_ATMOSPHERIC"
       ],
       "tagSource": "AUTO",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -52,7 +54,7 @@
         "DEEP_ATMOSPHERIC"
       ],
       "tagSource": "AUTO",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -65,7 +67,7 @@
         "DEEP_ATMOSPHERIC"
       ],
       "tagSource": "AUTO",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -78,21 +80,21 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
       "id": "back2back-radio-charlie-pxls",
-      "displayName": "Back2Back Radio - Charlie Pxls",
+      "displayName": "Back2Back Radio",
       "aliases": [
         "Back2Back Radio - Charlie Pxls"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "DEEP_ATMOSPHERIC"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/back2back-radio"
     },
     {
       "id": "balearic-breaks-show-darren-jay-and-jazzy",
@@ -105,21 +107,22 @@
         "JUNGLE_BREAKS"
       ],
       "tagSource": "AUTO",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
       "id": "bankbeats-bank",
-      "displayName": "Bankbeats - Bank",
+      "displayName": "Bankbeats",
       "aliases": [
         "Bankbeats - Bank"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "JUNGLE_BREAKS"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/bankbeats"
     },
     {
       "id": "bass-go-boom-dj-andy",
@@ -131,7 +134,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -144,7 +147,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -157,7 +160,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -170,7 +173,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -183,21 +186,22 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/contrast-radio-show"
     },
     {
       "id": "crucial-x-radio-spacefunk",
-      "displayName": "Crucial-X Radio - Spacefunk",
+      "displayName": "Crucial X Radio",
       "aliases": [
         "Crucial-X Radio - Spacefunk"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "JUNGLE_BREAKS",
+        "FULL_SPECTRUM"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/crucial-x-radio"
     },
     {
       "id": "dbr-deinfamous",
@@ -209,12 +213,12 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
       "id": "deceit-fm-buzzy-d",
-      "displayName": "Deceit FM - Buzzy D",
+      "displayName": "Deceit FM",
       "aliases": [
         "Deceit FM - Buzzy D"
       ],
@@ -222,8 +226,8 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/deceit-fm"
     },
     {
       "id": "deep-in-the-jungle-illusionist-and-darm",
@@ -235,25 +239,27 @@
         "JUNGLE_BREAKS"
       ],
       "tagSource": "AUTO",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
       "id": "deep-soul-show-donovan-badboy-smith",
-      "displayName": "Deep Soul Show - Donovan Badboy Smith",
+      "displayName": "Deep Soul Sessions",
       "aliases": [
         "Deep Soul Show - Donovan Badboy Smith"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "JUNGLE_BREAKS",
+        "FULL_SPECTRUM"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/deep-soul-sessions"
     },
     {
       "id": "default-recordings-show-west",
-      "displayName": "Default Recordings Show - West",
+      "displayName": "Default Recordings Show",
       "aliases": [
         "Default Recordings Show - West"
       ],
@@ -261,8 +267,8 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/default-recordings-show"
     },
     {
       "id": "dirtbox-radio-odj",
@@ -274,21 +280,25 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
       "id": "drumobsession-alegria",
-      "displayName": "DrumObsession - Alegria",
+      "displayName": "DrumObsession",
       "aliases": [
         "DrumObsession - Alegria"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "DEEP_ATMOSPHERIC",
+        "JUNGLE_BREAKS",
+        "TECH_DARK",
+        "FULL_SPECTRUM"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/drumobsession"
     },
     {
       "id": "dusk-melysma",
@@ -300,7 +310,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -313,7 +323,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -326,7 +336,7 @@
         "LIQUID_SOULFUL"
       ],
       "tagSource": "AUTO",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -339,7 +349,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -352,21 +362,22 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
       "id": "external-beats-show-external-subway",
-      "displayName": "External Beats Show - External Subway",
+      "displayName": "External Beats Show",
       "aliases": [
         "External Beats Show - External Subway"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "DEEP_ATMOSPHERIC",
+        "TECH_DARK"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/external-beats-show"
     },
     {
       "id": "fizzy-beats-show-mr-joseph",
@@ -378,7 +389,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -391,47 +402,54 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
       "id": "full-circle-show-russ-t",
-      "displayName": "Full Circle Show - Russ T",
+      "displayName": "Full Circle Show",
       "aliases": [
         "Full Circle Show - Russ T"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "DEEP_ATMOSPHERIC",
+        "JUNGLE_BREAKS"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/full-circle-show"
     },
     {
       "id": "function-records-show-digital",
-      "displayName": "Function Records Show - Digital",
+      "displayName": "Function Records Show",
       "aliases": [
         "Function Records Show - Digital"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "DEEP_ATMOSPHERIC",
+        "JUNGLE_BREAKS"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/function-records-show"
     },
     {
       "id": "funked-up-radio-dfunk",
-      "displayName": "Funked Up Radio - DFunk",
+      "displayName": "Funked Up Radio",
       "aliases": [
         "Funked Up Radio - DFunk"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "DEEP_ATMOSPHERIC",
+        "JUNGLE_BREAKS",
+        "TECH_DARK",
+        "FULL_SPECTRUM"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/funked-up-radio"
     },
     {
       "id": "future-frequencies-jay-holder",
@@ -443,38 +461,40 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
       "id": "fuzed-funk-magin",
-      "displayName": "Fuzed Funk - Magin",
+      "displayName": "Fuzed Funk",
       "aliases": [
         "Fuzed Funk - Magin"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "DEEP_ATMOSPHERIC",
+        "JUNGLE_BREAKS"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/fuzed-funk"
     },
     {
       "id": "get-dipped-dip-vertigo",
-      "displayName": "Get Dipped - Dip Vertigo",
+      "displayName": "Get Dipped",
       "aliases": [
         "Get Dipped - Dip Vertigo"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/get-dipped"
     },
     {
       "id": "hangover-hotline-lamebrane",
-      "displayName": "Hangover Hotline - Lamebrane",
+      "displayName": "Hangover Hotline",
       "aliases": [
         "Hangover Hotline - Lamebrane"
       ],
@@ -482,8 +502,8 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/hangover-hotline"
     },
     {
       "id": "heat-delano",
@@ -495,12 +515,27 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
+      "id": "the-high-definition-show-lj-high",
+      "displayName": "High Definition Radio with LJHigh",
+      "aliases": [
+        "The High Definition Show - LJ High"
+      ],
+      "tags": [
+        "LIQUID_SOULFUL",
+        "DEEP_ATMOSPHERIC",
+        "JUNGLE_BREAKS"
+      ],
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/high-definition-radio-with-ljhigh"
+    },
+    {
       "id": "impressions-indentation",
-      "displayName": "Impressions - Indentation",
+      "displayName": "Impressions",
       "aliases": [
         "Impressions - Indentation"
       ],
@@ -508,8 +543,8 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/impressions"
     },
     {
       "id": "in-the-mix-with-colony-colony",
@@ -521,7 +556,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -534,8 +569,21 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
+    },
+    {
+      "id": "the-infrasound-radio-show-icon",
+      "displayName": "Infrasound Radio Show",
+      "aliases": [
+        "The Infrasound Radio Show - Icon"
+      ],
+      "tags": [
+        "JUNGLE_BREAKS"
+      ],
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/infrasound-radio-show"
     },
     {
       "id": "jamdown-sessions-with-jamm-n",
@@ -547,7 +595,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -557,11 +605,11 @@
         "Jen Symmetry Live from Minneapolis"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "JUNGLE_BREAKS"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/jen-symmetry-live-from-minneapolis"
     },
     {
       "id": "just-joel-sevin",
@@ -573,20 +621,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
-    },
-    {
-      "id": "just-on-track-ashatack",
-      "displayName": "Just On Track - Ashatack",
-      "aliases": [
-        "Just On Track - Ashatack"
-      ],
-      "tags": [
-        "UNCLASSIFIED"
-      ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -599,12 +634,12 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
       "id": "lab-sessions-impression",
-      "displayName": "Lab Sessions - Impression",
+      "displayName": "Lab Sessions",
       "aliases": [
         "Lab Sessions - Impression"
       ],
@@ -612,34 +647,23 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/lab-sessions"
     },
     {
       "id": "launch-in-session-handy",
-      "displayName": "Launch in Session - Handy",
+      "displayName": "Launch in Session",
       "aliases": [
-        "Launch in Session - Handy"
-      ],
-      "tags": [
-        "UNCLASSIFIED"
-      ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
-    },
-    {
-      "id": "launch-in-session-launch-pad",
-      "displayName": "Launch in Session - Launch Pad",
-      "aliases": [
+        "Launch in Session - Handy",
         "Launch in Session - Launch Pad"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "DEEP_ATMOSPHERIC",
+        "JUNGLE_BREAKS"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/launch-in-session"
     },
     {
       "id": "liquiddnb-show-liquiddnb-com",
@@ -651,7 +675,7 @@
         "LIQUID_SOULFUL"
       ],
       "tagSource": "AUTO",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -664,8 +688,23 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
+    },
+    {
+      "id": "the-mod-con-records-show-rodney-rolls",
+      "displayName": "Mod Con Records Show",
+      "aliases": [
+        "The Mod Con Records Show - Rodney Rolls"
+      ],
+      "tags": [
+        "DEEP_ATMOSPHERIC",
+        "JUNGLE_BREAKS",
+        "TECH_DARK"
+      ],
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/mod-con-records-show"
     },
     {
       "id": "monday-blues-fizzik",
@@ -677,7 +716,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -690,7 +729,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -703,7 +742,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -716,34 +755,22 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
       "id": "northern-groove-show-dan-soulsmith",
-      "displayName": "Northern Groove Show - Dan Soulsmith",
+      "displayName": "Northern Groove Show",
       "aliases": [
         "Northern Groove Show - Dan Soulsmith"
       ],
       "tags": [
-        "UNCLASSIFIED"
-      ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
-    },
-    {
-      "id": "on-ward-show-jay-dubz",
-      "displayName": "On Ward Show - Jay Dubz",
-      "aliases": [
-        "On Ward Show - Jay Dubz"
-      ],
-      "tags": [
+        "LIQUID_SOULFUL",
         "DEEP_ATMOSPHERIC"
       ],
       "tagSource": "AUTO",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/northern-groove-show"
     },
     {
       "id": "panorama-podcast-derrick-and-tonika",
@@ -755,7 +782,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -765,28 +792,31 @@
         "Planet V Radio"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "DEEP_ATMOSPHERIC"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/planet-v-radio"
     },
     {
       "id": "plates-from-the-crypt-ill-omen",
-      "displayName": "Plates from the Crypt - iLL Omen",
+      "displayName": "Plates from the Crypt",
       "aliases": [
         "Plates from the Crypt - iLL Omen"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "DEEP_ATMOSPHERIC",
+        "JUNGLE_BREAKS"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/plates-from-the-crypt"
     },
     {
       "id": "power-rinse-evanthescientist",
-      "displayName": "Power Rinse - EvanTheScientist",
+      "displayName": "Power Rinse",
       "aliases": [
         "Power Rinse - EvanTheScientist"
       ],
@@ -794,47 +824,50 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/power%20rinse"
     },
     {
       "id": "promo-zo-on-bassdrive-promo-zo",
-      "displayName": "Promo Zo on Bassdrive - Promo Zo",
+      "displayName": "Promo ZO on Bassdrive",
       "aliases": [
         "Promo Zo on Bassdrive - Promo Zo"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "JUNGLE_BREAKS"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/promo-zo-on-bassdrive"
     },
     {
       "id": "random-movement-radio-random-movement",
-      "displayName": "Random Movement Radio - Random Movement",
+      "displayName": "Random Movement Radio",
       "aliases": [
         "Random Movement Radio - Random Movement"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "DEEP_ATMOSPHERIC"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/random-movement-radio"
     },
     {
       "id": "reflect-live-reflect",
-      "displayName": "Reflect LIVE - Reflect",
+      "displayName": "Reflect Live",
       "aliases": [
         "Reflect LIVE - Reflect"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "DEEP_ATMOSPHERIC",
+        "JUNGLE_BREAKS",
+        "TECH_DARK"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/reflect-live"
     },
     {
       "id": "reflective-music-show-2shy",
@@ -846,21 +879,23 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
       "id": "represent-radio-squake",
-      "displayName": "Represent Radio - Squake",
+      "displayName": "Represent Radio",
       "aliases": [
         "Represent Radio - Squake"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "DEEP_ATMOSPHERIC",
+        "JUNGLE_BREAKS",
+        "FULL_SPECTRUM"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/represent-radio"
     },
     {
       "id": "resistance-radio-john-ohms",
@@ -872,7 +907,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -885,34 +920,38 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
       "id": "rinse-n-wash-wadjit",
-      "displayName": "Rinse N Wash - Wadjit",
+      "displayName": "Rinse N Wash with Wadjit",
       "aliases": [
         "Rinse N Wash - Wadjit"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "DEEP_ATMOSPHERIC",
+        "JUNGLE_BREAKS",
+        "TECH_DARK"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/rinse-n-wash-with-wadjit"
     },
     {
       "id": "schematic-sound-schematic",
-      "displayName": "Schematic Sound - Schematic",
+      "displayName": "Schematic Sound",
       "aliases": [
         "Schematic Sound - Schematic"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "DEEP_ATMOSPHERIC"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/schematic-sound"
     },
     {
       "id": "scientific-radio-mav-and-mobility",
@@ -924,7 +963,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -937,7 +976,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -950,21 +989,22 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
       "id": "sohl-patrol-sohlman",
-      "displayName": "Sohl Patrol - Sohlman",
+      "displayName": "Sohl Patrol",
       "aliases": [
         "Sohl Patrol - Sohlman"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "JUNGLE_BREAKS"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/sohl-patrol"
     },
     {
       "id": "soundtrax4life-show-big-bud",
@@ -976,7 +1016,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -989,7 +1029,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -1002,7 +1042,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -1015,38 +1055,27 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
       "id": "stuck-on-mute-insideman",
-      "displayName": "Stuck on Mute - Insideman",
+      "displayName": "Stuck on Mute",
       "aliases": [
         "Stuck on Mute - Insideman"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "DEEP_ATMOSPHERIC",
+        "JUNGLE_BREAKS"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
-    },
-    {
-      "id": "subfactory-show-dj-spim",
-      "displayName": "Subfactory Show - DJ Spim",
-      "aliases": [
-        "Subfactory Show - DJ Spim"
-      ],
-      "tags": [
-        "UNCLASSIFIED"
-      ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/stuck-on-mute"
     },
     {
       "id": "subliminal-messages-radio-sp",
-      "displayName": "Subliminal Messages Radio - SP",
+      "displayName": "Subliminal Messages Radio",
       "aliases": [
         "Subliminal Messages Radio - SP"
       ],
@@ -1054,8 +1083,8 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/subliminal-messages-radio"
     },
     {
       "id": "sweetpea-live-on-bassdrive-sweetpea",
@@ -1067,7 +1096,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -1080,12 +1109,12 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
       "id": "the-dusk-session-with-melysma",
-      "displayName": "The Dusk Session with Melysma",
+      "displayName": "The Dusk Session",
       "aliases": [
         "The Dusk Session with Melysma"
       ],
@@ -1093,21 +1122,22 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/the-dusk-session"
     },
     {
       "id": "the-ebb-flow-show-optx",
-      "displayName": "The Ebb Flow Show - OPTX",
+      "displayName": "The Ebb & Flow Show",
       "aliases": [
         "The Ebb Flow Show - OPTX"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "JUNGLE_BREAKS"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/the-ebb-&-flow-show"
     },
     {
       "id": "the-four-corners-show-melinki",
@@ -1119,12 +1149,12 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
       "id": "the-greenroom-stunna",
-      "displayName": "The Greenroom - Stunna",
+      "displayName": "The Greenroom",
       "aliases": [
         "The Greenroom - Stunna"
       ],
@@ -1132,25 +1162,12 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
-    },
-    {
-      "id": "the-high-definition-show-lj-high",
-      "displayName": "The High Definition Show - LJ High",
-      "aliases": [
-        "The High Definition Show - LJ High"
-      ],
-      "tags": [
-        "UNCLASSIFIED"
-      ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/the-greenroom"
     },
     {
       "id": "the-hive-bumblebee",
-      "displayName": "The Hive - Bumblebee",
+      "displayName": "The Hive",
       "aliases": [
         "The Hive - Bumblebee"
       ],
@@ -1158,8 +1175,8 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/the-hive"
     },
     {
       "id": "the-hustle-audio-show-phil-hustle",
@@ -1171,20 +1188,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
-    },
-    {
-      "id": "the-infrasound-radio-show-icon",
-      "displayName": "The Infrasound Radio Show - Icon",
-      "aliases": [
-        "The Infrasound Radio Show - Icon"
-      ],
-      "tags": [
-        "UNCLASSIFIED"
-      ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -1197,21 +1201,22 @@
         "LIQUID_SOULFUL"
       ],
       "tagSource": "AUTO",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
-      "id": "the-just-on-track-show-ashatack",
-      "displayName": "The Just On Track Show - Ashatack",
+      "id": "just-on-track-ashatack",
+      "displayName": "The Just on Track Show",
       "aliases": [
+        "Just On Track - Ashatack",
         "The Just On Track Show - Ashatack"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/The-Just-on-Track-Show"
     },
     {
       "id": "the-kurruptdata-show",
@@ -1223,7 +1228,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -1236,34 +1241,35 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
-      "id": "the-mod-con-records-show-rodney-rolls",
-      "displayName": "The Mod Con Records Show - Rodney Rolls",
+      "id": "on-ward-show-jay-dubz",
+      "displayName": "The Onward Show",
       "aliases": [
-        "The Mod Con Records Show - Rodney Rolls"
+        "On Ward Show - Jay Dubz"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "DEEP_ATMOSPHERIC"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/the-onward-show"
     },
     {
       "id": "the-prague-connection-blofeld",
-      "displayName": "The Prague Connection - Blofeld",
+      "displayName": "The Prague Connection with Blofeld",
       "aliases": [
         "The Prague Connection - Blofeld"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "DEEP_ATMOSPHERIC"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/the-prague-connection-with-blofeld"
     },
     {
       "id": "the-skeptics-show-the-skeptics",
@@ -1275,7 +1281,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -1288,21 +1294,35 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
+      "id": "subfactory-show-dj-spim",
+      "displayName": "The Subfactory Show with Spim",
+      "aliases": [
+        "Subfactory Show - DJ Spim"
+      ],
+      "tags": [
+        "LIQUID_SOULFUL",
+        "TECH_DARK"
+      ],
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/the-subfactory-show-with-spim"
+    },
+    {
       "id": "the-sultry-sounds-show-cadence",
-      "displayName": "The Sultry Sounds Show - Cadence",
+      "displayName": "The Sultry Sounds Show",
       "aliases": [
         "The Sultry Sounds Show - Cadence"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/the-sultry-sounds-show"
     },
     {
       "id": "the-technimatic-show-technimatic",
@@ -1314,25 +1334,27 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
-      "id": "the-warm-ears-show-bassdrive",
-      "displayName": "The Warm Ears Show - bassdrive",
+      "id": "vital-habits-show-beepo-and-mental-chemistry",
+      "displayName": "The Vital Habits Show with Overt1",
       "aliases": [
-        "The Warm Ears Show - bassdrive"
+        "Vital Habits Show - Beepo and Mental Chemistry",
+        "Vital Habits Show - Overt1"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "DEEP_ATMOSPHERIC"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/the-vital-habits-show-with-overt1"
     },
     {
       "id": "third-foundation-t-suna",
-      "displayName": "Third Foundation - T Suna",
+      "displayName": "Third Foundation Sessions",
       "aliases": [
         "Third Foundation - T Suna"
       ],
@@ -1340,34 +1362,36 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/third-foundation-sessions"
     },
     {
       "id": "trainspotting-sessions-dj-amnesty",
-      "displayName": "Trainspotting Sessions - DJ Amnesty",
+      "displayName": "Trainspotting Sessions",
       "aliases": [
         "Trainspotting Sessions - DJ Amnesty"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "DANCEFLOOR_JUMP_UP"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/trainspotting-sessions"
     },
     {
       "id": "translation-sound-rogue-state",
-      "displayName": "Translation Sound - Rogue State",
+      "displayName": "Translation Sound with Rogue State",
       "aliases": [
         "Translation Sound - Rogue State"
       ],
       "tags": [
-        "UNCLASSIFIED"
+        "LIQUID_SOULFUL",
+        "DEEP_ATMOSPHERIC"
       ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/translation-sound-with-rogue-state"
     },
     {
       "id": "vibration-sessions-vibration-records",
@@ -1379,7 +1403,7 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
@@ -1392,38 +1416,25 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
+      "tagRulesVersion": 2,
       "profileUrl": null
     },
     {
-      "id": "vital-habits-show-beepo-and-mental-chemistry",
-      "displayName": "Vital Habits Show - Beepo and Mental Chemistry",
+      "id": "the-warm-ears-show-bassdrive",
+      "displayName": "Warm Ears Show",
       "aliases": [
-        "Vital Habits Show - Beepo and Mental Chemistry"
+        "The Warm Ears Show - bassdrive"
       ],
       "tags": [
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
-    },
-    {
-      "id": "vital-habits-show-overt1",
-      "displayName": "Vital Habits Show - Overt1",
-      "aliases": [
-        "Vital Habits Show - Overt1"
-      ],
-      "tags": [
-        "UNCLASSIFIED"
-      ],
-      "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/Warm-Ears-Show"
     },
     {
       "id": "xposure-records-show-ben-xo",
-      "displayName": "XPOSURE Records Show - Ben XO",
+      "displayName": "XPOSURE Records Show",
       "aliases": [
         "XPOSURE Records Show - Ben XO"
       ],
@@ -1431,8 +1442,8 @@
         "UNCLASSIFIED"
       ],
       "tagSource": "UNCLASSIFIED",
-      "tagRulesVersion": 0,
-      "profileUrl": null
+      "tagRulesVersion": 2,
+      "profileUrl": "https://www.bassdrive.com/radio/xposure-records-show"
     }
   ]
 }
