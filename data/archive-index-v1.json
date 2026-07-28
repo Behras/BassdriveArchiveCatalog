@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "indexVersion": 5,
-  "updatedAt": "2026-07-27T07:48:00Z",
+  "indexVersion": 6,
+  "updatedAt": "2026-07-28T06:38:36Z",
   "minimumPlayableBytes": 1048576,
   "sources": [
     {
@@ -239,11 +239,11 @@
       "name": "Dirtbox Radio - ODJ",
       "day": "Sunday",
       "url": "http://bassdrivearchive.com/7%20-%20Sunday/Dirtbox%20Radio%20-%20ODJ/",
-      "folderModified": "2026-07-21T15:49:00Z",
-      "playableEpisodes": 53,
+      "folderModified": "2026-07-28T01:50:00Z",
+      "playableEpisodes": 54,
       "brokenEpisodes": 0,
-      "newestEpisode": "2026-07-21T15:49:00Z",
-      "newestEpisodeName": "[2026.07.12] Dirtbox Radio - ODJ.mp3",
+      "newestEpisode": "2026-07-28T01:50:00Z",
+      "newestEpisodeName": "[2026.07.19] Dirtbox Radio - ODJ.mp3",
       "scanStatus": "OK"
     },
     {
@@ -360,11 +360,11 @@
       "name": "Function Records Show - Digital",
       "day": "Sunday",
       "url": "http://bassdrivearchive.com/7%20-%20Sunday/Function%20Records%20Show%20-%20Digital/",
-      "folderModified": "2026-07-17T10:46:00Z",
-      "playableEpisodes": 22,
+      "folderModified": "2026-07-28T01:50:00Z",
+      "playableEpisodes": 23,
       "brokenEpisodes": 0,
-      "newestEpisode": "2026-07-17T10:46:00Z",
-      "newestEpisodeName": "[2026.07.05] Digital Function Records Show.mp3",
+      "newestEpisode": "2026-07-28T01:50:00Z",
+      "newestEpisodeName": "[2026.07.19] The Function Records Show W Tim Clay.mp3",
       "scanStatus": "OK"
     },
     {
@@ -393,11 +393,11 @@
       "name": "Fuzed Funk - Magin",
       "day": "Sunday",
       "url": "http://bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/",
-      "folderModified": "2026-07-21T15:49:00Z",
-      "playableEpisodes": 58,
+      "folderModified": "2026-07-28T01:50:00Z",
+      "playableEpisodes": 59,
       "brokenEpisodes": 0,
-      "newestEpisode": "2026-07-21T15:49:00Z",
-      "newestEpisodeName": "[2026.07.12] Fuzed Funk - Magin.mp3",
+      "newestEpisode": "2026-07-28T01:50:00Z",
+      "newestEpisodeName": "[2026.07.19] Fuzed Funk - Magin.mp3",
       "scanStatus": "OK"
     },
     {
@@ -525,11 +525,11 @@
       "name": "Lab Sessions - Impression",
       "day": "Sunday",
       "url": "http://bassdrivearchive.com/7%20-%20Sunday/Lab%20Sessions%20-%20Impression/",
-      "folderModified": "2026-07-21T15:49:00Z",
-      "playableEpisodes": 51,
+      "folderModified": "2026-07-28T01:50:00Z",
+      "playableEpisodes": 52,
       "brokenEpisodes": 0,
-      "newestEpisode": "2026-07-21T15:49:00Z",
-      "newestEpisodeName": "[2026.07.12] Lab Sessions - Impression.mp3",
+      "newestEpisode": "2026-07-28T01:50:00Z",
+      "newestEpisodeName": "[2026.07.19] Lab Sessions - Impression.mp3",
       "scanStatus": "OK"
     },
     {
@@ -778,11 +778,11 @@
       "name": "Rinse N Wash - Wadjit",
       "day": "Monday",
       "url": "http://bassdrivearchive.com/1%20-%20Monday/Rinse%20N%20Wash%20-%20Wadjit/",
-      "folderModified": "2026-07-21T15:50:00Z",
-      "playableEpisodes": 81,
+      "folderModified": "2026-07-28T01:50:00Z",
+      "playableEpisodes": 82,
       "brokenEpisodes": 4,
-      "newestEpisode": "2026-07-21T15:50:00Z",
-      "newestEpisodeName": "[2026.07.13] Rinse and Wash - Wadjit.mp3",
+      "newestEpisode": "2026-07-28T01:50:00Z",
+      "newestEpisodeName": "[2026.07.20] Rinse and Wash - Wadjit.mp3",
       "scanStatus": "OK"
     },
     {
@@ -998,22 +998,22 @@
       "name": "The High Definition Show - LJ High",
       "day": "Sunday",
       "url": "http://bassdrivearchive.com/7%20-%20Sunday/The%20High%20Definition%20Show%20-%20LJ%20High/",
-      "folderModified": "2026-07-21T15:49:00Z",
-      "playableEpisodes": 62,
+      "folderModified": "2026-07-28T01:50:00Z",
+      "playableEpisodes": 63,
       "brokenEpisodes": 0,
-      "newestEpisode": "2026-07-21T15:49:00Z",
-      "newestEpisodeName": "[2026.07.12] The High Definition Show - LJHigh.mp3",
+      "newestEpisode": "2026-07-28T01:50:00Z",
+      "newestEpisodeName": "[2026.07.19] The High Definition Show - LJHigh.mp3",
       "scanStatus": "OK"
     },
     {
       "name": "The Hive - Bumblebee",
       "day": "Sunday",
       "url": "http://bassdrivearchive.com/7%20-%20Sunday/The%20Hive%20-%20Bumblebee/",
-      "folderModified": "2026-07-21T15:49:00Z",
-      "playableEpisodes": 49,
+      "folderModified": "2026-07-28T01:50:00Z",
+      "playableEpisodes": 50,
       "brokenEpisodes": 0,
-      "newestEpisode": "2026-07-21T15:49:00Z",
-      "newestEpisodeName": "[2026.07.12] The Hive - Bumblebee.mp3",
+      "newestEpisode": "2026-07-28T01:50:00Z",
+      "newestEpisodeName": "[2026.07.19] The Hive - Bumblebee.mp3",
       "scanStatus": "OK"
     },
     {
@@ -1108,11 +1108,11 @@
       "name": "The Prague Connection - Blofeld",
       "day": "Monday",
       "url": "http://bassdrivearchive.com/1%20-%20Monday/The%20Prague%20Connection%20-%20Blofeld/",
-      "folderModified": "2026-07-21T15:50:00Z",
-      "playableEpisodes": 107,
+      "folderModified": "2026-07-28T01:50:00Z",
+      "playableEpisodes": 108,
       "brokenEpisodes": 6,
-      "newestEpisode": "2026-07-21T15:50:00Z",
-      "newestEpisodeName": "[2026.07.13] The Prague Connection - Blofeld.mp3",
+      "newestEpisode": "2026-07-28T01:50:00Z",
+      "newestEpisodeName": "[2026.07.20] The Prague Connection - Blofeld.mp3",
       "scanStatus": "OK"
     },
     {
