@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "indexVersion": 14,
-  "updatedAt": "2026-08-31T10:49:04Z",
+  "indexVersion": 15,
+  "updatedAt": "2026-09-01T09:23:16Z",
   "minimumPlayableBytes": 1048576,
   "sources": [
     {
@@ -407,7 +407,7 @@
       "folderModified": "2026-08-27T11:05:00Z",
       "playableEpisodes": 116,
       "brokenEpisodes": 1,
-      "newestEpisode": "2026-08-27T11:05:00Z",
+      "newestEpisode": "2026-08-30T22:29:00Z",
       "newestEpisodeName": "[2026.08.18] GET DIPPED 220 Live W Dip Vertigo.mp3",
       "scanStatus": "OK"
     },
@@ -836,7 +836,7 @@
       "folderModified": "2026-08-27T11:05:00Z",
       "playableEpisodes": 55,
       "brokenEpisodes": 0,
-      "newestEpisode": "2026-08-27T11:05:00Z",
+      "newestEpisode": "2026-08-30T22:29:00Z",
       "newestEpisodeName": "[2026.08.18] Sohl Patrol Live.mp3",
       "scanStatus": "OK"
     },
