@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "indexVersion": 15,
-  "updatedAt": "2026-09-01T09:23:16Z",
+  "indexVersion": 16,
+  "updatedAt": "2026-09-03T08:54:38Z",
   "minimumPlayableBytes": 1048576,
   "sources": [
     {
@@ -250,22 +250,22 @@
       "name": "DrumObsession - Alegria",
       "day": "Tuesday",
       "url": "http://bassdrivearchive.com/2%20-%20Tuesday/DrumObsession%20-%20Alegria/",
-      "folderModified": "2026-08-27T11:05:00Z",
-      "playableEpisodes": 118,
+      "folderModified": "2026-09-02T13:31:00Z",
+      "playableEpisodes": 119,
       "brokenEpisodes": 5,
-      "newestEpisode": "2026-08-27T11:05:00Z",
-      "newestEpisodeName": "[2026.08.18] DrumObsession - Alegria.mp3",
+      "newestEpisode": "2026-09-02T13:31:00Z",
+      "newestEpisodeName": "[2026.08.25] DrumObsession - Alegria.mp3",
       "scanStatus": "OK"
     },
     {
       "name": "Dusk - Melysma",
       "day": "Tuesday",
       "url": "http://bassdrivearchive.com/2%20-%20Tuesday/Dusk%20-%20Melysma/",
-      "folderModified": "2026-08-27T11:05:00Z",
-      "playableEpisodes": 55,
+      "folderModified": "2026-09-02T13:31:00Z",
+      "playableEpisodes": 56,
       "brokenEpisodes": 0,
-      "newestEpisode": "2026-08-27T11:05:00Z",
-      "newestEpisodeName": "[2026.08.18] Dusk With Melysma Live.mp3",
+      "newestEpisode": "2026-09-02T13:32:00Z",
+      "newestEpisodeName": "[2026.08.25] Dusk With Melysma Live.mp3",
       "scanStatus": "OK"
     },
     {
@@ -404,11 +404,11 @@
       "name": "Get Dipped - Dip Vertigo",
       "day": "Tuesday",
       "url": "http://bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/",
-      "folderModified": "2026-08-27T11:05:00Z",
-      "playableEpisodes": 116,
+      "folderModified": "2026-09-02T13:32:00Z",
+      "playableEpisodes": 117,
       "brokenEpisodes": 1,
-      "newestEpisode": "2026-08-30T22:29:00Z",
-      "newestEpisodeName": "[2026.08.18] GET DIPPED 220 Live W Dip Vertigo.mp3",
+      "newestEpisode": "2026-09-02T13:32:00Z",
+      "newestEpisodeName": "[2026.08.25] GET DIPPED 221 Live W Dip Vertigo.mp3",
       "scanStatus": "OK"
     },
     {
@@ -833,11 +833,11 @@
       "name": "Sohl Patrol - Sohlman",
       "day": "Tuesday",
       "url": "http://bassdrivearchive.com/2%20-%20Tuesday/Sohl%20Patrol%20-%20Sohlman/",
-      "folderModified": "2026-08-27T11:05:00Z",
-      "playableEpisodes": 55,
+      "folderModified": "2026-09-02T13:32:00Z",
+      "playableEpisodes": 56,
       "brokenEpisodes": 0,
-      "newestEpisode": "2026-08-30T22:29:00Z",
-      "newestEpisodeName": "[2026.08.18] Sohl Patrol Live.mp3",
+      "newestEpisode": "2026-09-02T13:32:00Z",
+      "newestEpisodeName": "[2026.08.25] Sohl Patrol Live.mp3",
       "scanStatus": "OK"
     },
     {
@@ -910,11 +910,11 @@
       "name": "Subfactory Show - DJ Spim",
       "day": "Monday",
       "url": "http://bassdrivearchive.com/1%20-%20Monday/Subfactory%20Show%20-%20DJ%20Spim/",
-      "folderModified": "2026-08-17T17:26:00Z",
-      "playableEpisodes": 42,
+      "folderModified": "2026-09-02T13:31:00Z",
+      "playableEpisodes": 43,
       "brokenEpisodes": 3,
-      "newestEpisode": "2026-08-17T17:26:00Z",
-      "newestEpisodeName": "[2026.08.10] Subfactory Show - Spim.mp3",
+      "newestEpisode": "2026-09-02T13:31:00Z",
+      "newestEpisodeName": "[2026.08.24] Subfactory Show - Spim.mp3",
       "scanStatus": "OK"
     },
     {
@@ -1108,11 +1108,11 @@
       "name": "The Prague Connection - Blofeld",
       "day": "Monday",
       "url": "http://bassdrivearchive.com/1%20-%20Monday/The%20Prague%20Connection%20-%20Blofeld/",
-      "folderModified": "2026-08-27T11:05:00Z",
-      "playableEpisodes": 112,
+      "folderModified": "2026-09-02T13:31:00Z",
+      "playableEpisodes": 113,
       "brokenEpisodes": 6,
-      "newestEpisode": "2026-08-27T11:05:00Z",
-      "newestEpisodeName": "[2026.08.17] The Prague Connection - Blofeld.mp3",
+      "newestEpisode": "2026-09-02T13:31:00Z",
+      "newestEpisodeName": "[2026.08.24] The Prague Connection - Blofeld.mp3",
       "scanStatus": "OK"
     },
     {
@@ -1207,11 +1207,11 @@
       "name": "Translation Sound - Rogue State",
       "day": "Monday",
       "url": "http://bassdrivearchive.com/1%20-%20Monday/Translation%20Sound%20-%20Rogue%20State/",
-      "folderModified": "2026-07-21T15:50:00Z",
-      "playableEpisodes": 66,
+      "folderModified": "2026-09-02T13:31:00Z",
+      "playableEpisodes": 67,
       "brokenEpisodes": 4,
-      "newestEpisode": "2026-07-21T15:50:00Z",
-      "newestEpisodeName": "[2026.07.13] Translation Sound - Rogue State.mp3",
+      "newestEpisode": "2026-09-02T13:31:00Z",
+      "newestEpisodeName": "[2026.08.24] Translation Sound - Rogue State.mp3",
       "scanStatus": "OK"
     },
     {
@@ -1262,11 +1262,11 @@
       "name": "XPOSURE Records Show - Ben XO",
       "day": "Tuesday",
       "url": "http://bassdrivearchive.com/2%20-%20Tuesday/XPOSURE%20Records%20Show%20-%20Ben%20XO/",
-      "folderModified": "2026-08-20T13:14:00Z",
-      "playableEpisodes": 117,
+      "folderModified": "2026-09-02T13:32:00Z",
+      "playableEpisodes": 118,
       "brokenEpisodes": 4,
-      "newestEpisode": "2026-08-20T13:14:00Z",
-      "newestEpisodeName": "[2026.08.11] XPOSURE Records Show - Ben XO.mp3",
+      "newestEpisode": "2026-09-02T13:32:00Z",
+      "newestEpisodeName": "[2026.08.25] XPOSURE Records Show - Ben XO.mp3",
       "scanStatus": "OK"
     }
   ]
