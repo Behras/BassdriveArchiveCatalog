@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "indexVersion": 21,
-  "updatedAt": "2026-09-29T10:38:51Z",
+  "indexVersion": 22,
+  "updatedAt": "2026-09-30T10:27:41Z",
   "minimumPlayableBytes": 1048576,
   "sources": [
     {
@@ -250,11 +250,11 @@
       "name": "DrumObsession - Alegria",
       "day": "Tuesday",
       "url": "http://bassdrivearchive.com/2%20-%20Tuesday/DrumObsession%20-%20Alegria/",
-      "folderModified": "2026-09-24T04:29:00Z",
-      "playableEpisodes": 121,
+      "folderModified": "2026-09-29T16:00:00Z",
+      "playableEpisodes": 122,
       "brokenEpisodes": 5,
-      "newestEpisode": "2026-09-24T04:29:00Z",
-      "newestEpisodeName": "[2026.09.15] DrumObsession - Alegria.mp3",
+      "newestEpisode": "2026-09-29T15:58:00Z",
+      "newestEpisodeName": "[2026.09.08] DrumObsession SNB edition - Alegria.mp3",
       "scanStatus": "OK"
     },
     {
