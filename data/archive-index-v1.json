@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "indexVersion": 28,
-  "updatedAt": "2026-11-02T12:19:02Z",
+  "indexVersion": 29,
+  "updatedAt": "2026-11-03T11:53:25Z",
   "minimumPlayableBytes": 1048576,
   "sources": [
     {
@@ -173,11 +173,11 @@
       "name": "Crucial-X Radio - Spacefunk",
       "day": "Saturday",
       "url": "http://bassdrivearchive.com/6%20-%20Saturday/Crucial-X%20Radio%20-%20Spacefunk/",
-      "folderModified": "2026-11-02T00:04:00Z",
-      "playableEpisodes": 81,
+      "folderModified": "2026-11-02T13:14:00Z",
+      "playableEpisodes": 82,
       "brokenEpisodes": 0,
-      "newestEpisode": "2026-11-02T00:04:00Z",
-      "newestEpisodeName": "[2026.10.24] Crucial-X Radio - Spacefunk.mp3",
+      "newestEpisode": "2026-11-02T13:14:00Z",
+      "newestEpisodeName": "[2026.10.05] Crucial X-tra Sessions - Spacefunk.mp3",
       "scanStatus": "OK"
     },
     {
@@ -261,11 +261,11 @@
       "name": "Dusk - Melysma",
       "day": "Tuesday",
       "url": "http://bassdrivearchive.com/2%20-%20Tuesday/Dusk%20-%20Melysma/",
-      "folderModified": "2026-10-29T17:59:00Z",
-      "playableEpisodes": 62,
+      "folderModified": "2026-11-02T13:14:00Z",
+      "playableEpisodes": 63,
       "brokenEpisodes": 0,
-      "newestEpisode": "2026-10-29T17:59:00Z",
-      "newestEpisodeName": "[2026.10.20] Dusk With Melysma Live.mp3",
+      "newestEpisode": "2026-11-02T13:14:00Z",
+      "newestEpisodeName": "[2026.06.05] Dusk With Melysma.mp3",
       "scanStatus": "OK"
     },
     {
@@ -481,22 +481,22 @@
       "name": "Jen Symmetry Live from Minneapolis",
       "day": "Thursday",
       "url": "http://bassdrivearchive.com/4%20-%20Thursday/Jen%20Symmetry%20Live%20from%20Minneapolis/",
-      "folderModified": "2026-10-29T17:59:00Z",
-      "playableEpisodes": 49,
+      "folderModified": "2026-11-02T13:17:00Z",
+      "playableEpisodes": 50,
       "brokenEpisodes": 0,
-      "newestEpisode": "2026-10-29T17:59:00Z",
-      "newestEpisodeName": "[2026.10.22] Jen Symmetry Live From Minneapolis.mp3",
+      "newestEpisode": "2026-11-02T13:17:00Z",
+      "newestEpisodeName": "[2026.07.09] Nick Merchant Live From Minneapolis.mp3",
       "scanStatus": "OK"
     },
     {
       "name": "Just Joel - Sevin",
       "day": "Friday",
       "url": "http://bassdrivearchive.com/5%20-%20Friday/Just%20Joel%20-%20Sevin/",
-      "folderModified": "2026-01-15T14:50:00Z",
-      "playableEpisodes": 6,
+      "folderModified": "2026-11-02T13:14:00Z",
+      "playableEpisodes": 7,
       "brokenEpisodes": 0,
-      "newestEpisode": "2026-01-30T23:06:00Z",
-      "newestEpisodeName": "[2025.12.25] Joel Sevin Live On Bassdrive.mp3",
+      "newestEpisode": "2026-11-02T13:14:00Z",
+      "newestEpisodeName": "[2026.10.12] Joel Sevin Live On Bassdrive.mp3",
       "scanStatus": "OK"
     },
     {
@@ -563,6 +563,17 @@
       "brokenEpisodes": 0,
       "newestEpisode": null,
       "newestEpisodeName": null,
+      "scanStatus": "OK"
+    },
+    {
+      "name": "Mechanix Radio - Nick Merchant",
+      "day": "Thursday",
+      "url": "http://bassdrivearchive.com/4%20-%20Thursday/Mechanix%20Radio%20-%20Nick%20Merchant/",
+      "folderModified": "2026-11-02T13:17:00Z",
+      "playableEpisodes": 1,
+      "brokenEpisodes": 0,
+      "newestEpisode": "2026-11-02T13:17:00Z",
+      "newestEpisodeName": "[2026.10.15] Mechanix Radio Live With Nick Merchant.mp3",
       "scanStatus": "OK"
     },
     {
@@ -1152,11 +1163,11 @@
       "name": "The Sultry Sounds Show - Cadence",
       "day": "Thursday",
       "url": "http://bassdrivearchive.com/4%20-%20Thursday/The%20Sultry%20Sounds%20Show%20-%20Cadence/",
-      "folderModified": "2026-08-11T17:45:00Z",
-      "playableEpisodes": 31,
+      "folderModified": "2026-11-02T13:14:00Z",
+      "playableEpisodes": 33,
       "brokenEpisodes": 1,
-      "newestEpisode": "2026-08-11T17:45:00Z",
-      "newestEpisodeName": "[2026.07.30] The Sultry Sounds Show - Cadence.mp3",
+      "newestEpisode": "2026-11-02T13:14:00Z",
+      "newestEpisodeName": "[2026.07.04] The Sultry Sounds Show Live W Cadence.mp3",
       "scanStatus": "OK"
     },
     {

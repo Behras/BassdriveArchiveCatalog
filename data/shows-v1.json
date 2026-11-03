@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 2,
-  "updatedAt": "2026-07-11T18:43:15Z",
+  "catalogVersion": 3,
+  "updatedAt": "2026-11-03T11:53:25Z",
   "shows": [
     {
       "id": "anthony-kasper-live-anthony-kasper",
@@ -675,6 +675,19 @@
         "LIQUID_SOULFUL"
       ],
       "tagSource": "AUTO",
+      "tagRulesVersion": 2,
+      "profileUrl": null
+    },
+    {
+      "id": "mechanix-radio-nick-merchant",
+      "displayName": "Mechanix Radio - Nick Merchant",
+      "aliases": [
+        "Mechanix Radio - Nick Merchant"
+      ],
+      "tags": [
+        "UNCLASSIFIED"
+      ],
+      "tagSource": "UNCLASSIFIED",
       "tagRulesVersion": 2,
       "profileUrl": null
     },
