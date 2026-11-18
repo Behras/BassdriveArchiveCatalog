@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "indexVersion": 33,
-  "updatedAt": "2026-11-17T13:17:32Z",
+  "indexVersion": 34,
+  "updatedAt": "2026-11-18T12:59:28Z",
   "minimumPlayableBytes": 1048576,
   "sources": [
     {
@@ -250,22 +250,22 @@
       "name": "DrumObsession - Alegria",
       "day": "Tuesday",
       "url": "http://bassdrivearchive.com/2%20-%20Tuesday/DrumObsession%20-%20Alegria/",
-      "folderModified": "2026-11-11T15:42:00Z",
-      "playableEpisodes": 129,
+      "folderModified": "2026-11-17T16:51:00Z",
+      "playableEpisodes": 130,
       "brokenEpisodes": 5,
-      "newestEpisode": "2026-11-11T15:42:00Z",
-      "newestEpisodeName": "[2026.11.03] DrumObsession - Alegria.mp3",
+      "newestEpisode": "2026-11-17T16:51:00Z",
+      "newestEpisodeName": "[2026.11.10] DrumObsession - Alegria.mp3",
       "scanStatus": "OK"
     },
     {
       "name": "Dusk - Melysma",
       "day": "Tuesday",
       "url": "http://bassdrivearchive.com/2%20-%20Tuesday/Dusk%20-%20Melysma/",
-      "folderModified": "2026-11-16T20:25:00Z",
-      "playableEpisodes": 65,
+      "folderModified": "2026-11-17T16:51:00Z",
+      "playableEpisodes": 66,
       "brokenEpisodes": 0,
-      "newestEpisode": "2026-11-16T20:25:00Z",
-      "newestEpisodeName": "[2026.11.05] Dusk With Melysma Live.mp3",
+      "newestEpisode": "2026-11-17T16:51:00Z",
+      "newestEpisodeName": "[2026.11.10] Dusk With Melysma Live.mp3",
       "scanStatus": "OK"
     },
     {
@@ -404,11 +404,11 @@
       "name": "Get Dipped - Dip Vertigo",
       "day": "Tuesday",
       "url": "http://bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/",
-      "folderModified": "2026-11-11T15:42:00Z",
-      "playableEpisodes": 126,
+      "folderModified": "2026-11-17T16:51:00Z",
+      "playableEpisodes": 127,
       "brokenEpisodes": 1,
-      "newestEpisode": "2026-11-11T15:42:00Z",
-      "newestEpisodeName": "[2026.11.03] GET DIPPED 231 Live W Dip Vertigo.mp3",
+      "newestEpisode": "2026-11-17T16:51:00Z",
+      "newestEpisodeName": "[2026.11.10] GET DIPPED 232 Live W Dip Vertigo Los Angeles.mp3",
       "scanStatus": "OK"
     },
     {
@@ -844,11 +844,11 @@
       "name": "Sohl Patrol - Sohlman",
       "day": "Tuesday",
       "url": "http://bassdrivearchive.com/2%20-%20Tuesday/Sohl%20Patrol%20-%20Sohlman/",
-      "folderModified": "2026-11-11T15:42:00Z",
-      "playableEpisodes": 65,
+      "folderModified": "2026-11-17T16:51:00Z",
+      "playableEpisodes": 66,
       "brokenEpisodes": 0,
-      "newestEpisode": "2026-11-11T15:42:00Z",
-      "newestEpisodeName": "[2026.11.03] Sohl Patrol Live.mp3",
+      "newestEpisode": "2026-11-17T16:51:00Z",
+      "newestEpisodeName": "[2026.11.10] Sohl Patrol Live.mp3",
       "scanStatus": "OK"
     },
     {
@@ -1273,11 +1273,11 @@
       "name": "XPOSURE Records Show - Ben XO",
       "day": "Tuesday",
       "url": "http://bassdrivearchive.com/2%20-%20Tuesday/XPOSURE%20Records%20Show%20-%20Ben%20XO/",
-      "folderModified": "2026-11-11T15:42:00Z",
-      "playableEpisodes": 127,
+      "folderModified": "2026-11-17T16:51:00Z",
+      "playableEpisodes": 128,
       "brokenEpisodes": 4,
-      "newestEpisode": "2026-11-11T15:42:00Z",
-      "newestEpisodeName": "[2026.11.03] XPOSURE Records Show - Ben XO.mp3",
+      "newestEpisode": "2026-11-17T16:52:00Z",
+      "newestEpisodeName": "[2026.11.10] XPOSURE Records Show - Ben XO.mp3",
       "scanStatus": "OK"
     }
   ]
